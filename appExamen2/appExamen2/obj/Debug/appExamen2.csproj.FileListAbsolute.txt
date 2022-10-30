@@ -1,0 +1,11 @@
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\CUARTO SEMESTRE\Programación 3\SEGUNDO PARCIAL\Semana 16\appExamen2\appExamen2\bin\Debug\appExamen2.exe.config
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\CUARTO SEMESTRE\Programación 3\SEGUNDO PARCIAL\Semana 16\appExamen2\appExamen2\bin\Debug\appExamen2.exe
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\CUARTO SEMESTRE\Programación 3\SEGUNDO PARCIAL\Semana 16\appExamen2\appExamen2\bin\Debug\appExamen2.pdb
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\CUARTO SEMESTRE\Programación 3\SEGUNDO PARCIAL\Semana 16\appExamen2\appExamen2\obj\Debug\appExamen2.csprojAssemblyReference.cache
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\CUARTO SEMESTRE\Programación 3\SEGUNDO PARCIAL\Semana 16\appExamen2\appExamen2\obj\Debug\appExamen2.frmConsultarEmpleado.resources
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\CUARTO SEMESTRE\Programación 3\SEGUNDO PARCIAL\Semana 16\appExamen2\appExamen2\obj\Debug\appExamen2.frmIngresarEmpleado.resources
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\CUARTO SEMESTRE\Programación 3\SEGUNDO PARCIAL\Semana 16\appExamen2\appExamen2\obj\Debug\appExamen2.Properties.Resources.resources
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\CUARTO SEMESTRE\Programación 3\SEGUNDO PARCIAL\Semana 16\appExamen2\appExamen2\obj\Debug\appExamen2.csproj.GenerateResource.cache
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\CUARTO SEMESTRE\Programación 3\SEGUNDO PARCIAL\Semana 16\appExamen2\appExamen2\obj\Debug\appExamen2.csproj.CoreCompileInputs.cache
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\CUARTO SEMESTRE\Programación 3\SEGUNDO PARCIAL\Semana 16\appExamen2\appExamen2\obj\Debug\appExamen2.exe
+C:\Users\José Andrés\Documents\ASIGNATURAS DE SEMESTRES EN LA U\CUARTO SEMESTRE\Programación 3\SEGUNDO PARCIAL\Semana 16\appExamen2\appExamen2\obj\Debug\appExamen2.pdb
